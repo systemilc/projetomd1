@@ -1,0 +1,48 @@
+@media (max-width: 600px){
+
+	.cabecalho{
+		margin-left: 5px;
+		font-size: 15px;
+		font-weight: bold;
+		color: #FFD000;
+			
+			
+	}
+	.cabecalho span{
+		color: black;
+		
+	}
+	nav{
+		width: 20%;
+		
+	}
+	
+	nav ul{
+		display: flex;
+		justify-content: end;
+		margin-right: 5%;
+		
+	}
+	nav li{
+		padding: 5px;
+		
+	}
+	
+	nav a{
+		text-decoration: none;
+		font-size: 30px;
+		color: rgb(3, 3, 3);
+		transition: all 0.5s;
+	
+	}
+	main{
+		text-align: center;
+	}
+	img{
+		height: auto;
+		width: 300px;
+		
+	}
+
+
+}
